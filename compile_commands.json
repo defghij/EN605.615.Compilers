@@ -1,0 +1,47 @@
+[
+{
+  "directory": "/home/chuck/wiki/files/JHU/EN.605.615/hw9.Compiler/CompilerProject/Cpp/build",
+  "command": "/usr/bin/c++ -DANTLR4CPP_STATIC -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/usr/lib/llvm-17/include -I/home/chuck/wiki/files/JHU/EN.605.615/hw9.Compiler/CompilerProject/Cpp/build/antlr4cpp_generated_src/Cminus -I/usr/include/llvm-17 -I/usr/include/llvm-c-17 -isystem /home/chuck/wiki/files/JHU/EN.605.615/hw9.Compiler/CompilerProject/Cpp/build/antlr4_runtime/src/antlr4_runtime/runtime/Cpp/runtime/src -O3 -DNDEBUG -g -o CMakeFiles/cminus_executable.dir/CminusMain.cpp.o -c /home/chuck/wiki/files/JHU/EN.605.615/hw9.Compiler/CompilerProject/Cpp/CminusMain.cpp",
+  "file": "/home/chuck/wiki/files/JHU/EN.605.615/hw9.Compiler/CompilerProject/Cpp/CminusMain.cpp"
+},
+{
+  "directory": "/home/chuck/wiki/files/JHU/EN.605.615/hw9.Compiler/CompilerProject/Cpp/build",
+  "command": "/usr/bin/c++ -DANTLR4CPP_STATIC -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/usr/lib/llvm-17/include -I/home/chuck/wiki/files/JHU/EN.605.615/hw9.Compiler/CompilerProject/Cpp/build/antlr4cpp_generated_src/Cminus -I/usr/include/llvm-17 -I/usr/include/llvm-c-17 -isystem /home/chuck/wiki/files/JHU/EN.605.615/hw9.Compiler/CompilerProject/Cpp/build/antlr4_runtime/src/antlr4_runtime/runtime/Cpp/runtime/src -O3 -DNDEBUG -g -o CMakeFiles/cminus_executable.dir/pass_manager.cpp.o -c /home/chuck/wiki/files/JHU/EN.605.615/hw9.Compiler/CompilerProject/Cpp/pass_manager.cpp",
+  "file": "/home/chuck/wiki/files/JHU/EN.605.615/hw9.Compiler/CompilerProject/Cpp/pass_manager.cpp"
+},
+{
+  "directory": "/home/chuck/wiki/files/JHU/EN.605.615/hw9.Compiler/CompilerProject/Cpp/build",
+  "command": "/usr/bin/c++ -DANTLR4CPP_STATIC -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/usr/lib/llvm-17/include -I/home/chuck/wiki/files/JHU/EN.605.615/hw9.Compiler/CompilerProject/Cpp/build/antlr4cpp_generated_src/Cminus -I/usr/include/llvm-17 -I/usr/include/llvm-c-17 -isystem /home/chuck/wiki/files/JHU/EN.605.615/hw9.Compiler/CompilerProject/Cpp/build/antlr4_runtime/src/antlr4_runtime/runtime/Cpp/runtime/src -O3 -DNDEBUG -g -o CMakeFiles/cminus_executable.dir/symboltable.cpp.o -c /home/chuck/wiki/files/JHU/EN.605.615/hw9.Compiler/CompilerProject/Cpp/symboltable.cpp",
+  "file": "/home/chuck/wiki/files/JHU/EN.605.615/hw9.Compiler/CompilerProject/Cpp/symboltable.cpp"
+},
+{
+  "directory": "/home/chuck/wiki/files/JHU/EN.605.615/hw9.Compiler/CompilerProject/Cpp/build",
+  "command": "/usr/bin/c++ -DANTLR4CPP_STATIC -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/usr/lib/llvm-17/include -I/home/chuck/wiki/files/JHU/EN.605.615/hw9.Compiler/CompilerProject/Cpp/build/antlr4cpp_generated_src/Cminus -I/usr/include/llvm-17 -I/usr/include/llvm-c-17 -isystem /home/chuck/wiki/files/JHU/EN.605.615/hw9.Compiler/CompilerProject/Cpp/build/antlr4_runtime/src/antlr4_runtime/runtime/Cpp/runtime/src -O3 -DNDEBUG -g -o CMakeFiles/cminus_executable.dir/codegen.cpp.o -c /home/chuck/wiki/files/JHU/EN.605.615/hw9.Compiler/CompilerProject/Cpp/codegen.cpp",
+  "file": "/home/chuck/wiki/files/JHU/EN.605.615/hw9.Compiler/CompilerProject/Cpp/codegen.cpp"
+},
+{
+  "directory": "/home/chuck/wiki/files/JHU/EN.605.615/hw9.Compiler/CompilerProject/Cpp/build",
+  "command": "/usr/bin/c++ -DANTLR4CPP_STATIC -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/usr/lib/llvm-17/include -I/home/chuck/wiki/files/JHU/EN.605.615/hw9.Compiler/CompilerProject/Cpp/build/antlr4cpp_generated_src/Cminus -I/usr/include/llvm-17 -I/usr/include/llvm-c-17 -isystem /home/chuck/wiki/files/JHU/EN.605.615/hw9.Compiler/CompilerProject/Cpp/build/antlr4_runtime/src/antlr4_runtime/runtime/Cpp/runtime/src -O3 -DNDEBUG -g -o CMakeFiles/cminus_executable.dir/support.cpp.o -c /home/chuck/wiki/files/JHU/EN.605.615/hw9.Compiler/CompilerProject/Cpp/support.cpp",
+  "file": "/home/chuck/wiki/files/JHU/EN.605.615/hw9.Compiler/CompilerProject/Cpp/support.cpp"
+},
+{
+  "directory": "/home/chuck/wiki/files/JHU/EN.605.615/hw9.Compiler/CompilerProject/Cpp/build",
+  "command": "/usr/bin/c++ -DANTLR4CPP_STATIC -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/usr/lib/llvm-17/include -I/home/chuck/wiki/files/JHU/EN.605.615/hw9.Compiler/CompilerProject/Cpp/build/antlr4cpp_generated_src/Cminus -I/usr/include/llvm-17 -I/usr/include/llvm-c-17 -isystem /home/chuck/wiki/files/JHU/EN.605.615/hw9.Compiler/CompilerProject/Cpp/build/antlr4_runtime/src/antlr4_runtime/runtime/Cpp/runtime/src -O3 -DNDEBUG -g -o CMakeFiles/cminus_executable.dir/antlr4cpp_generated_src/Cminus/CminusLexer.cpp.o -c /home/chuck/wiki/files/JHU/EN.605.615/hw9.Compiler/CompilerProject/Cpp/build/antlr4cpp_generated_src/Cminus/CminusLexer.cpp",
+  "file": "/home/chuck/wiki/files/JHU/EN.605.615/hw9.Compiler/CompilerProject/Cpp/build/antlr4cpp_generated_src/Cminus/CminusLexer.cpp"
+},
+{
+  "directory": "/home/chuck/wiki/files/JHU/EN.605.615/hw9.Compiler/CompilerProject/Cpp/build",
+  "command": "/usr/bin/c++ -DANTLR4CPP_STATIC -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/usr/lib/llvm-17/include -I/home/chuck/wiki/files/JHU/EN.605.615/hw9.Compiler/CompilerProject/Cpp/build/antlr4cpp_generated_src/Cminus -I/usr/include/llvm-17 -I/usr/include/llvm-c-17 -isystem /home/chuck/wiki/files/JHU/EN.605.615/hw9.Compiler/CompilerProject/Cpp/build/antlr4_runtime/src/antlr4_runtime/runtime/Cpp/runtime/src -O3 -DNDEBUG -g -o CMakeFiles/cminus_executable.dir/antlr4cpp_generated_src/Cminus/CminusParser.cpp.o -c /home/chuck/wiki/files/JHU/EN.605.615/hw9.Compiler/CompilerProject/Cpp/build/antlr4cpp_generated_src/Cminus/CminusParser.cpp",
+  "file": "/home/chuck/wiki/files/JHU/EN.605.615/hw9.Compiler/CompilerProject/Cpp/build/antlr4cpp_generated_src/Cminus/CminusParser.cpp"
+},
+{
+  "directory": "/home/chuck/wiki/files/JHU/EN.605.615/hw9.Compiler/CompilerProject/Cpp/build",
+  "command": "/usr/bin/c++ -DANTLR4CPP_STATIC -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/usr/lib/llvm-17/include -I/home/chuck/wiki/files/JHU/EN.605.615/hw9.Compiler/CompilerProject/Cpp/build/antlr4cpp_generated_src/Cminus -I/usr/include/llvm-17 -I/usr/include/llvm-c-17 -isystem /home/chuck/wiki/files/JHU/EN.605.615/hw9.Compiler/CompilerProject/Cpp/build/antlr4_runtime/src/antlr4_runtime/runtime/Cpp/runtime/src -O3 -DNDEBUG -g -o CMakeFiles/cminus_executable.dir/antlr4cpp_generated_src/Cminus/CminusBaseVisitor.cpp.o -c /home/chuck/wiki/files/JHU/EN.605.615/hw9.Compiler/CompilerProject/Cpp/build/antlr4cpp_generated_src/Cminus/CminusBaseVisitor.cpp",
+  "file": "/home/chuck/wiki/files/JHU/EN.605.615/hw9.Compiler/CompilerProject/Cpp/build/antlr4cpp_generated_src/Cminus/CminusBaseVisitor.cpp"
+},
+{
+  "directory": "/home/chuck/wiki/files/JHU/EN.605.615/hw9.Compiler/CompilerProject/Cpp/build",
+  "command": "/usr/bin/c++ -DANTLR4CPP_STATIC -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/usr/lib/llvm-17/include -I/home/chuck/wiki/files/JHU/EN.605.615/hw9.Compiler/CompilerProject/Cpp/build/antlr4cpp_generated_src/Cminus -I/usr/include/llvm-17 -I/usr/include/llvm-c-17 -isystem /home/chuck/wiki/files/JHU/EN.605.615/hw9.Compiler/CompilerProject/Cpp/build/antlr4_runtime/src/antlr4_runtime/runtime/Cpp/runtime/src -O3 -DNDEBUG -g -o CMakeFiles/cminus_executable.dir/antlr4cpp_generated_src/Cminus/CminusVisitor.cpp.o -c /home/chuck/wiki/files/JHU/EN.605.615/hw9.Compiler/CompilerProject/Cpp/build/antlr4cpp_generated_src/Cminus/CminusVisitor.cpp",
+  "file": "/home/chuck/wiki/files/JHU/EN.605.615/hw9.Compiler/CompilerProject/Cpp/build/antlr4cpp_generated_src/Cminus/CminusVisitor.cpp"
+}
+]
